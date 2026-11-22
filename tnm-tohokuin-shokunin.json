@@ -653,6 +653,9 @@
   }
  ],
  "poems": [],
+ "translation": {
+  "count": 24
+ },
  "catalog": {
   "work_id": "tnm-tohokuin-shokunin",
   "work": "東北院職人歌合（五番本）",
@@ -665,9 +668,9 @@
   "blocks": 24,
   "chars": 883,
   "poems": 21,
-  "yaku": 0,
+  "yaku": 24,
   "editions": 1,
-  "updated": "2026-10-30",
-  "updated_at": "2026-10-30T13:11:50+09:00"
+  "updated": "2026-11-22",
+  "updated_at": "2026-11-22T11:56:13+09:00"
  }
 }
